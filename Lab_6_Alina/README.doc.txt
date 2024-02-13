@@ -1,0 +1,1 @@
+Inside "src" folder can be found the solutions regarding the first and the second problem. The third problem can be found in the "Problem 3" folder above.
